@@ -1,8 +1,6 @@
 # Привет, я Иван 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Активно+пишу+на+Java;Развиваюсь+в+backend;Люблю+чистый+код&font=Fira+Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
-</div>
+☕ Активно пишу код на Java и развиваюсь в backend-разработке.
 
 ---
 
@@ -17,15 +15,6 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-### 📊 Моя статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hi-iamdeveloper&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-iamdeveloper&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-</div>
 
 ---
 

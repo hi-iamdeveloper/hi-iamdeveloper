@@ -23,8 +23,8 @@
 ### 📊 Моя статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hi-iamdeveloper&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-iamdeveloper&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </div>
 
 ---
@@ -33,9 +33,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivan/ivan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivan/ivan/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ivan/ivan/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi-iamdeveloper/hi-iamdeveloper/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi-iamdeveloper/hi-iamdeveloper/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hi-iamdeveloper/hi-iamdeveloper/output/github-snake.svg" />
   </picture>
 </div>
 

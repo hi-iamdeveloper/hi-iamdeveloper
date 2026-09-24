@@ -55,6 +55,8 @@
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+      &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
     </td>
     <td valign="top" width="50%">

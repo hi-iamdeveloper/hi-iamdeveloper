@@ -73,8 +73,8 @@
 ### 🥋 Codewars
 
 <div align="center">
-  <a href="https://www.codewars.com/users/thereal_hi">
-    <img src="https://www.codewars.com/users/thereal_hi/badges/large" alt="Codewars" />
+  <a href="https://www.codewars.com/users/hi_iamdeveloper">
+    <img src="https://www.codewars.com/users/hi_iamdeveloper/badges/large" alt="Codewars" />
   </a>
 </div>
 

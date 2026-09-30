@@ -10,16 +10,18 @@
 
 ### 🛠 Мой стек
 
+<div align="center">
+
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h4>💻 Язык и фреймворки</h4>
       <br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h4>🗄 Базы данных</h4>
       <br>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -28,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h4>⚙️ Сборка и инструменты</h4>
       <br>
       <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
@@ -37,7 +39,7 @@
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h4>🐳 DevOps</h4>
       <br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -48,7 +50,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h4>🌐 Окружение и брокеры</h4>
       <br>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -59,10 +61,12 @@
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -70,7 +74,7 @@
 
 <div align="center">
   <a href="https://www.codewars.com/users/thereal_hi">
-    <img src="https://www.codewars.com/users/thereal_hi/badges/large" alt="Codewars Profile" />
+    <img src="https://github.r2v.ch/codewars?user=thereal_hi&top_languages=true&theme=dark" alt="Codewars Stats" />
   </a>
 </div>
 

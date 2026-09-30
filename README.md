@@ -80,4 +80,14 @@
 
 ---
 
+### 🧠 LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/hi-iamdeveloper/">
+    <img src="https://leetcard.jacoblin.cool/hi-iamdeveloper?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
 ⭐ Буду рад обратной связи и новым знакомствам!

@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://www.codewars.com/users/thereal_hi">
-    <img src="https://github.r2v.ch/codewars?user=thereal_hi&top_languages=true&theme=dark" alt="Codewars Stats" />
+    <img src="https://github.r2v.ch/codewars?user=thereal_hi&top_languages=true&theme=gradient" alt="Codewars Stats" />
   </a>
 </div>
 

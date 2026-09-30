@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://www.codewars.com/users/hi_iamdeveloper">
-    <img src="https://www.codewars.com/users/hi_iamdeveloper/badges/large" alt="Codewars" />
+    <img src="https://github.r2v.ch/codewars?user=hi_iamdeveloper&top_languages=true&theme=dark" alt="Codewars Stats" />
   </a>
 </div>
 

@@ -66,4 +66,14 @@
 
 ---
 
+### 🥋 Codewars
+
+<div align="center">
+  <a href="https://www.codewars.com/users/thereal_hi">
+    <img src="https://www.codewars.com/users/thereal_hi/badges/large" alt="Codewars Profile" />
+  </a>
+</div>
+
+---
+
 ⭐ Буду рад обратной связи и новым знакомствам!

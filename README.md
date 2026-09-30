@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://www.codewars.com/users/hi_iamdeveloper">
-    <img src="https://github.r2v.ch/codewars?user=hi_iamdeveloper&top_languages=true&theme=dark" alt="Codewars Stats" />
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=hi_iamdeveloper&theme=dracula" alt="Codewars Stats" />
   </a>
 </div>
 

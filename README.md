@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6DB33F&height=200&section=header&text=Иван&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=58&descSize=20" />
 </div>
-
+<div align="center">
 ☕ Активно пишу код на Java и развиваюсь в backend-разработке.
-
+</div>
 ---
 
 ### 🛠 Мой стек

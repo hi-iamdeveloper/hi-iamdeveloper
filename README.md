@@ -8,9 +8,9 @@
 
 ---
 
-<div align="center">
+
 ### 🛠 Мой стек
-</div>
+
 
 <div align="center">
 
